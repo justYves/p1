@@ -10,9 +10,7 @@ This is the first Project for CSCIE-15. Set up a portfolio to present all the pr
 No Demo for this Project 
 
 ## Details for teaching team
-No login required.
-
-
+N/A
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
