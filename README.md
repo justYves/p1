@@ -14,4 +14,3 @@ N/A
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
-* Bootstrap Theme: http://bootswatch.com/
